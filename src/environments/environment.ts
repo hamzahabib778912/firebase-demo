@@ -5,13 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyAgUz-BbonuTO5581ePLyRPuPvNMsX7anY",
-    authDomain: "fir-demo-5c540.firebaseapp.com",
-    databaseURL: "https://fir-demo-5c540-default-rtdb.firebaseio.com",
-    projectId: "fir-demo-5c540",
-    storageBucket: "fir-demo-5c540.appspot.com",
-    messagingSenderId: "149064181712",
-    appId: "1:149064181712:web:8da25d776a408babe27bd5"
+
   }
 };
 
